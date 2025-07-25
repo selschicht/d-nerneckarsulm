@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/d-nerneckarsulm/', // ✅ BU SATIR EN ÜSTE EKLENMELİ
+  base: '/d-nerneckarsulm/', // 
 
   server: {
     host: "::",
